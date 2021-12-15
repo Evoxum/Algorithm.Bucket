@@ -1,3 +1,3 @@
 # Algorithm.Bucket
 
-## Daily commits baby!
+## Daily commits!
